@@ -1,4 +1,7 @@
 ### Hi There 🍎
+
+I've been developing WordPress themes and plugins for over 15+ years.
+
 <div style="width:100%;display:flex;justify-content:space-between;align-items:center">
     <img src="https://raw.githubusercontent.com/fatihtoprak/fatihtoprak/05afb7b7a8e42fde53969270292e28a27f8d1418/github-user-contribution.svg">
 </div>
