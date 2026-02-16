@@ -7,3 +7,5 @@ I have been developing paid and free WordPress themes and plugins for 20 years. 
 
 Founder of https://scaefy.com
 x.com : http://x.com/ftoprak/
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=fatihtoprak&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=lower)
