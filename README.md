@@ -8,4 +8,4 @@ I have been developing paid and free WordPress themes and plugins for 20 years. 
 Founder of https://scaefy.com
 x.com : http://x.com/ftoprak/
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/fatihtoprak?label=since+16+feb+2026)
+![Github Views](https://views.igorkowalczyk.dev/api/badge/fatihtoprak?label=profile+view:+since+16+feb+2026)
