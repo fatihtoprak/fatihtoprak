@@ -19,7 +19,7 @@
 
 I build **high-performance WordPress infrastructures**, automation-driven systems, and scalable backend architectures.
 
-With 15+ years of development experience, I focus on:
+With 20+ years of development experience, I focus on:
 
 - ⚡ Performance-first engineering  
 - 🔐 Secure coding principles  
