@@ -27,13 +27,12 @@ With 20+ years of development experience, I focus on:
 
 # 🧩 Architecture Mindset
 
-```text
-→ Build scalable before building big
-→ Avoid plugin chaos, prefer system architecture
-→ Optimize queries before adding hardware
-→ Security is not optional
-→ Automate everything possible
-```
+- Build scalable before building big
+- Avoid plugin chaos, prefer system architecture
+- Optimize queries before adding hardware
+- Security is not optional
+- Automate everything possible
+
 
 I don't just write code — I design **systems that survive growth**.
 
@@ -91,34 +90,29 @@ I don't just write code — I design **systems that survive growth**.
 # 🚀 Live Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihtoprak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihtoprak&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihtoprak&theme=light&hide_border=true&locale=en" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihtoprak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihtoprak&theme=tokyo-night&hide_border=true" />
-</p>
+ 
 
 ---
 
 # 🔥 Development Focus
 
-```text
-✔ WordPress Core Engineering
-✔ Performance Optimization
-✔ Secure Coding (XSS / SQL Injection)
-✔ Automation & Integrations
-✔ High Traffic Scaling
-✔ AI Content Systems
-```
+- ✔ WordPress Core Engineering
+- ✔ Performance Optimization
+- ✔ Secure Coding (XSS / SQL Injection)
+- ✔ Automation & Integrations
+- ✔ High Traffic Scaling
+- ✔ AI Content Systems
+
+
+---
+
+# 🔥 Public WordPress Plugins
+
+- WordPress Scheluded Post Issue Fixer Plugin : https://github.com/optimisthub/scheduled-posts-issue-fixer
+- WordPress SVG Enabler Plugin : https://github.com/optimisthub/wordpress-svg-enabler
+- WooCommerce X Moka {by İşbank} Payment Gateway Integration Plugin : https://github.com/optimisthub/moka-woocommerce
 
 ---
 
